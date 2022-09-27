@@ -1,4 +1,4 @@
-# Whisper searches within the audio file 
+# Whisper searches within an audio file 
 
 Whisper is OpenAI general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.
 
